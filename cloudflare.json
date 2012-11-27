@@ -35,8 +35,11 @@
             "logos" : {
                 "200px": "./public/images/logo-200.png",
                 "132px": "./public/images/logo-132.png"
-            }
-
+            },
+            "detail page":
+            	[
+            		".public/images/dashboard-1.png"
+		]
         },
         "interface": [
             {
