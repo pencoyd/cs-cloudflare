@@ -21,12 +21,9 @@ Transparent results ~ Average 96% traffic growth in 3 months.
 Costs a fraction of agency fee.
 No risk ~ No long term contract.
 
-<b>Choose your plan</b><br>
-Self-Service Plan: Get custom recommendations and update website yourself. $24 / month.
+<b>Automated Plan</b><br>
 
-Automated Plan: Use Clearspike tools to get website optimized automatically. $49 / month.
-
-Do-It-For-Me Plan: Get Clearspike experts to optimize your website. $199 / month.
+Use Clearspike tools to get website optimized automatically. $49 / month.
 
 ![Clearspike Dashboard](/images/apps/clearspike/dashboard-1.png "Clearspike more traffic, no more hassle.")
 
